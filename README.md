@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Vairagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikvairagi17&label=Profile%20views&color=0e75b6&style=flat" alt="pratikvairagi17" /> </p>
